@@ -6,5 +6,3 @@ const ingredients = [
   "Herbs",
   "Condiments",
 ];
-
-// sefse
